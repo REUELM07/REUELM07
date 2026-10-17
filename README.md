@@ -196,6 +196,4 @@
 </tr>
 </table>
 
-<p align="center"><sub>REUELM · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,50:1d4ed8,100:0f172a&height=100&section=footer&animation=twinkling" width="100%" alt="footer" />
