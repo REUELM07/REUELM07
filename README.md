@@ -4,7 +4,7 @@
 
 <br />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2200&pause=900&color=38BDF8&background=0F172A&multiline=true&vCenter=true&width=720&height=190&lines=%24+whoami;Reuel+-+Software+Engineering+Student;%24+.%2Fwelcome+--visitor;Hi%21+Reuel+here.+Welcome+to+my+profile.;Explore+my+projects%2C+skills+and+credentials.;Take+away+what+is+useful%2C+then+let+us+build+together." alt="Terminal-style welcome animation: Reuel this side, Welcoming you 🤝, Glad to have you here. Explore my projects, skills and credentials. Take away what is useful, then let us build together." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2200&pause=900&color=38BDF8&background=0F172A&multiline=true&vCenter=true&width=720&height=240&lines=%24+whoami;Reuel+-+Software+Engineering+Student;%24+.%2Fwelcome+--visitor;Reuel+this+side%2C;Welcoming+you+%F0%9F%A4%9D;Glad+to+have+you+here.;Explore+my+projects%2C+skills+and+credentials.;Take+away+what+is+useful%2C+then+let+us+build+together." alt="Terminal-style welcome animation: Reuel this side, welcoming you, glad to have you here. Explore my projects, skills and credentials. Take away what is useful, then let us build together." />
 
 <p><sub>Think &nbsp;→&nbsp; Design &nbsp;→&nbsp; Build &nbsp;→&nbsp; Test &nbsp;→&nbsp; Ship</sub></p>
 
