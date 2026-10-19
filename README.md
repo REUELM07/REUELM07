@@ -2,6 +2,12 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:2563eb&height=200&section=header&text=REUEL%20MENPARA&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Frontend%20%C2%B7%20Full-Stack%20%C2%B7%20C%23%20%C2%B7%20Problem%20Solving&descSize=18&descAlignY=60" width="100%" alt="Reuel Menpara banner" />
 
+<br />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2200&pause=900&color=38BDF8&background=0F172A&multiline=true&vCenter=true&width=720&height=190&lines=%24+whoami;Reuel+-+Software+Engineering+Student;%24+.%2Fwelcome+--visitor;Hi%21+Reuel+here.+Welcome+to+my+profile.;Explore+my+projects%2C+skills+and+credentials.;Take+away+what+is+useful%2C+then+let+us+build+together." alt="Terminal-style welcome animation: Hi! Reuel here. Welcome to my profile. Explore my projects, skills and credentials. Take away what is useful, then let us build together." />
+
+<p><sub>Think &nbsp;→&nbsp; Design &nbsp;→&nbsp; Build &nbsp;→&nbsp; Test &nbsp;→&nbsp; Ship</sub></p>
+
 <table width="100%">
 <tr>
 <td width="64%" valign="middle">
@@ -247,6 +253,7 @@ I want to combine my **UI skills** with **software for cars**. C# and C++ give m
 <strong>🧠 CS fundamentals</strong><br /><br />
 <img src="https://img.shields.io/badge/DBMS-0F766E?style=flat-square" alt="DBMS" title="Database Management Systems" /><br />
 <img src="https://img.shields.io/badge/Computer%20Networks-0369A1?style=flat-square" alt="Computer Networks" title="Computer Networks" /><br />
+<img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?style=flat-square&logo=cisco&logoColor=white" alt="Cisco Packet Tracer" title="Cisco Packet Tracer network simulation" /><br />
 <img src="https://img.shields.io/badge/OOP-7C3AED?style=flat-square" alt="Object-Oriented Programming" title="Object-Oriented Programming" />
 </td>
 <td width="33%" valign="top" align="center">
@@ -268,7 +275,7 @@ I want to combine my **UI skills** with **software for cars**. C# and C++ give m
 </tr>
 </table>
 
-<p align="center"><sub>HTML5 · CSS3 · JavaScript · TypeScript · C# · C++ · React · Node.js · Express · Firebase · JWT · .NET · Git · GitHub · VS Code · Visual Studio Community · PyCharm · Jira · Balsamiq · n8n · Figma · Postman · DBMS · Computer Networks · OOP</sub></p>
+<p align="center"><sub>HTML5 · CSS3 · JavaScript · TypeScript · C# · C++ · React · Node.js · Express · Firebase · JWT · .NET · Git · GitHub · VS Code · Visual Studio Community · PyCharm · Jira · Balsamiq · n8n · Figma · Postman · Cisco Packet Tracer · DBMS · Computer Networks · OOP</sub></p>
 
 <p align="center">
 <picture>
