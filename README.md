@@ -73,76 +73,108 @@
 </tr>
 </table>
 
-<h3>How my skills fit together</h3>
+<h2>Reuel’s Garage</h2>
 
-```mermaid
-flowchart LR
-    A["🌱 Web foundations<br/>HTML · CSS · JavaScript"] --> B["⚛️ Modern UI<br/>React · TypeScript"]
-    B --> C["🔐 Full-stack builds<br/>Express · JWT · Firebase"]
-    C --> D["🧠 Core CS<br/>DBMS · Networks · OOP · C#"]
-    D --> E["☁️ Cloud and AI<br/>Google · AWS · Anthropic"]
-    E --> F["🚗 Goal<br/>Software for cars"]
+<p>Every part of this car is a chapter of my story. Find the numbers on the car, then open the matching dropdown underneath.</p>
 
-    style A fill:#334155,stroke:#1e293b,color:#ffffff
-    style B fill:#1d4ed8,stroke:#1e3a8a,color:#ffffff
-    style C fill:#0e7490,stroke:#155e75,color:#ffffff
-    style D fill:#0f766e,stroke:#115e59,color:#ffffff
-    style E fill:#4f46e5,stroke:#3730a3,color:#ffffff
-    style F fill:#0f172a,stroke:#020617,color:#ffffff
-```
+<p align="center">
+  <img src="assets/vintage-car.svg" width="100%" alt="Animated vintage car with six numbered parts: 1 engine, 2 wheels, 3 headlamps, 4 steering wheel, 5 trunk, 6 horn" title="Reuel's Garage" />
+</p>
 
-<h3>Pick your path (click to expand)</h3>
-
+<table width="100%">
+<tr><td>
 <details>
-<summary><strong>👔 I'm a recruiter: give me the 30-second summary</strong></summary>
+<summary><img src="assets/part-engine.svg" width="72" align="middle" alt="" /> &nbsp;<kbd>1</kbd> <strong>The Engine · My journey</strong></summary>
 
 <br />
 
-- **Role:** Frontend or full-stack engineer, also strong in C#
-- **Stack:** React, TypeScript, JavaScript, CSS, Node.js, Express, Firebase, C#/.NET
-- **Core CS:** DBMS, Computer Networks and Object-Oriented Programming
-- **Evidence:** 20 public repositories, 102 contributions across 28 active days, and a series of full-stack DEV@Deakin projects with authentication and deployment
-- **Credentials:** Google AI Essentials, AWS Cloud Essentials, Anthropic 101, LinkedIn Generative AI, Cisco Cybersecurity, TCS iON Young Professional, and GirlScript Summer of Code contributor
-- **Learning in public:** Google Arcade 2026 participant with 75+ points and skill badges
-- **Fundamentals:** regular LeetCode practice for data structures and algorithms
-- **Looking for:** internships and junior roles in frontend, full-stack or C#/.NET development
-- **Best way to reach me:** the LinkedIn button at the top of this page
+<table width="100%">
+<tr><td width="22%"><strong>The start</strong></td><td>B.E. in Software Engineering at Chitkara University, on the Deakin pathway.</td></tr>
+<tr><td><strong>Web foundations</strong></td><td>HTML, CSS and JavaScript, then React and TypeScript for clean, modern interfaces.</td></tr>
+<tr><td><strong>Full-stack</strong></td><td>Express, JWT and Firebase through the DEV@Deakin units, from login pages to a deployed app.</td></tr>
+<tr><td><strong>Core CS</strong></td><td>DBMS, Computer Networks (with Cisco Packet Tracer) and OOP in C# and C++.</td></tr>
+<tr><td><strong>Cloud and AI</strong></td><td>Google Arcade 2026 and certifications from AWS, Anthropic and Cisco, alongside regular LeetCode practice.</td></tr>
+<tr><td><strong>Destination</strong></td><td>Software for cars: strong fundamentals underneath, a clear interface on top.</td></tr>
+</table>
 
 </details>
-
+</td></tr>
+<tr><td>
 <details>
-<summary><strong>👩‍💻 I'm an engineer: show me the stack and the flagship project</strong></summary>
+<summary><img src="assets/part-wheels.svg" width="72" align="middle" alt="" /> &nbsp;<kbd>2</kbd> <strong>The Wheels · Events &amp; community</strong></summary>
 
 <br />
 
-My most complete project is **DEV@Deakin: Subscription Management**, built with React, Express, JWT authentication and Firebase.
+<!-- EDIT: add the year, city and one highlight for each event (a talk you liked, someone you met, what you built afterwards). -->
 
-```mermaid
-flowchart LR
-    U["👤 User"] --> R["⚛️ React app"]
-    R --> E["🟢 Express API"]
-    E --> J["🔐 JWT auth"]
-    E --> F["🔥 Firebase"]
+<table width="100%">
+<tr><td width="30%"><strong>GDG DevFest</strong></td><td>I attend DevFest to learn from working developers and to meet people who are building real products.</td></tr>
+<tr><td><strong>GirlScript Summer of Code</strong></td><td>Contributor: working on open-source projects with a wider community of developers.</td></tr>
+</table>
 
-    style U fill:#334155,stroke:#1e293b,color:#ffffff
-    style R fill:#1d4ed8,stroke:#1e3a8a,color:#ffffff
-    style E fill:#0f766e,stroke:#115e59,color:#ffffff
-    style J fill:#4f46e5,stroke:#3730a3,color:#ffffff
-    style F fill:#0e7490,stroke:#155e75,color:#ffffff
-```
-
-Source: [TASK-D1 on GitHub](https://github.com/REUELM07/TASK-D1)
+<p>Events are where I pick up what is new in the industry, then bring the ideas back into my own builds.</p>
 
 </details>
-
+</td></tr>
+<tr><td>
 <details>
-<summary><strong>🚗 I'm into automotive: what are you aiming for?</strong></summary>
+<summary><img src="assets/part-headlamps.svg" width="72" align="middle" alt="" /> &nbsp;<kbd>3</kbd> <strong>The Headlamps · Certifications</strong></summary>
 
 <br />
 
-I want to combine my **UI skills** with **software for cars**. C# and C++ give me the typed, object-oriented fundamentals, and my frontend work gives me an eye for clear, usable interfaces. Automotive and in-vehicle software is the direction I'm building towards.
+<table width="100%">
+<tr>
+<td width="50%" valign="top"><strong>Cloud and AI</strong><br />Google AI Essentials<br />AWS Cloud Essentials<br />Anthropic 101<br />LinkedIn: Generative AI</td>
+<td width="50%" valign="top"><strong>Security and career</strong><br />Cisco: Cybersecurity<br />TCS iON Young Professional</td>
+</tr>
+</table>
+
+<p>Verify them on <a href="https://www.credly.com/users/reuel-menpara">Credly</a> and on my <a href="https://www.skills.google/public_profiles/22b09606-96f5-4aa9-af80-43c6d57db46d">Google Skills profile</a>.</p>
 
 </details>
+</td></tr>
+<tr><td>
+<details>
+<summary><img src="assets/part-steering.svg" width="72" align="middle" alt="" /> &nbsp;<kbd>4</kbd> <strong>The Steering Wheel · Projects</strong></summary>
+
+<br />
+
+<table width="100%">
+<tr><td width="34%"><a href="https://github.com/REUELM07/TASK-D1"><strong>DEV@Deakin: Subscription Management</strong></a></td><td>Flagship full-stack build with JWT authentication and Firebase.</td><td width="22%"><code>React</code> <code>Express</code> <code>JWT</code> <code>Firebase</code></td></tr>
+<tr><td><a href="https://github.com/REUELM07/TASK-C2"><strong>DEV@Deakin: Deployment</strong></a></td><td>Taking the application live in production.</td><td><code>React</code> <code>Deployment</code></td></tr>
+<tr><td><a href="https://github.com/REUELM07/TASK-C1"><strong>DEV@Deakin: Posts</strong></a></td><td>Question and article posting forms.</td><td><code>React</code> <code>Forms</code> <code>CSS</code></td></tr>
+<tr><td><a href="https://github.com/REUELM07/TASK-P4"><strong>DEV@Deakin: Auth</strong></a></td><td>Login and registration pages.</td><td><code>React</code> <code>Firebase</code></td></tr>
+</table>
+
+</details>
+</td></tr>
+<tr><td>
+<details>
+<summary><img src="assets/part-trunk.svg" width="72" align="middle" alt="" /> &nbsp;<kbd>5</kbd> <strong>The Trunk · Hackathons &amp; challenges</strong></summary>
+
+<br />
+
+<!-- EDIT: add each hackathon here: name, year, your role, what you built and the result. -->
+
+<table width="100%">
+<tr><td width="30%"><strong>Google Arcade 2026</strong></td><td>Participant from April to December 2026 with 75+ points and skill badges earned through hands-on cloud labs. <a href="https://www.skills.google/public_profiles/22b09606-96f5-4aa9-af80-43c6d57db46d">See the badges</a>.</td></tr>
+<tr><td><strong>GirlScript Summer of Code</strong></td><td>Open-source contributor.</td></tr>
+<tr><td><strong>LeetCode</strong></td><td>Ongoing algorithm and data-structure practice.</td></tr>
+</table>
+
+</details>
+</td></tr>
+<tr><td>
+<details>
+<summary><img src="assets/part-horn.svg" width="72" align="middle" alt="" /> &nbsp;<kbd>6</kbd> <strong>The Horn · Say hello</strong></summary>
+
+<br />
+
+<p>I am open to internships and junior roles in frontend, full-stack, C#/.NET and automotive software. The quickest way to reach me is a message on <a href="https://www.linkedin.com/in/reuel-menpara-0a9768381">LinkedIn</a>.</p>
+
+</details>
+</td></tr>
+</table>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:2563eb,100:06b6d4&height=4&animation=twinkling" width="100%" alt="" />
 
@@ -202,7 +234,7 @@ I want to combine my **UI skills** with **software for cars**. C# and C++ give m
 
 <h3 align="center">Frameworks, Backend &amp; Tools</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,firebase,dotnet,git,github,vscode,visualstudio,pycharm,jira,figma,postman&perline=13" alt="React, Node.js, Express, Firebase, .NET, Git, GitHub, VS Code, Visual Studio, PyCharm, Jira, Figma, Postman" title="React · Node.js · Express · Firebase · .NET · Git · GitHub · VS Code · Visual Studio · PyCharm · Jira · Figma · Postman" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,firebase,dotnet,git,github,vscode,visualstudio,pycharm&perline=10" alt="React, Node.js, Express, Firebase, .NET, Git, GitHub, VS Code, Visual Studio, PyCharm" title="React · Node.js · Express · Firebase · .NET · Git · GitHub · VS Code · Visual Studio · PyCharm" />&nbsp;&nbsp;<img src="assets/jira.svg" width="48" height="48" alt="Jira" title="Jira" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=figma,postman&perline=2" alt="Figma, Postman" title="Figma · Postman" />
 </p>
 
 <h3 align="center">Skills by area</h3>
