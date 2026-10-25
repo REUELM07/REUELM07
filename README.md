@@ -78,13 +78,13 @@
 <p>Every part of this car is a chapter of my story. Find the numbers on the car, then open the matching dropdown underneath.</p>
 
 <p align="center">
-  <img src="assets/vintage-car.svg" width="100%" alt="Animated vintage car with six numbered parts: 1 engine, 2 wheels, 3 headlamps, 4 steering wheel, 5 trunk, 6 horn" title="Reuel's Garage" />
+  <img src="vintage-car.svg" width="100%" alt="Animated vintage car with six numbered parts: 1 engine, 2 wheels, 3 headlamps, 4 steering wheel, 5 trunk, 6 horn" title="Reuel's Garage" />
 </p>
 
 <table width="100%">
 <tr><td>
 <details>
-<summary><img src="assets/part-engine.svg" width="72" align="middle" alt="" /> &nbsp;<kbd>1</kbd> <strong>The Engine · My journey</strong></summary>
+<summary><img src="part-engine.svg" width="72" align="middle" alt="" /> &nbsp;<kbd>1</kbd> <strong>The Engine · My journey</strong></summary>
 
 <br />
 
@@ -101,7 +101,7 @@
 </td></tr>
 <tr><td>
 <details>
-<summary><img src="assets/part-wheels.svg" width="72" align="middle" alt="" /> &nbsp;<kbd>2</kbd> <strong>The Wheels · Events &amp; community</strong></summary>
+<summary><img src="part-wheels.svg" width="72" align="middle" alt="" /> &nbsp;<kbd>2</kbd> <strong>The Wheels · Events &amp; community</strong></summary>
 
 <br />
 
@@ -118,7 +118,7 @@
 </td></tr>
 <tr><td>
 <details>
-<summary><img src="assets/part-headlamps.svg" width="72" align="middle" alt="" /> &nbsp;<kbd>3</kbd> <strong>The Headlamps · Certifications</strong></summary>
+<summary><img src="part-headlamps.svg" width="72" align="middle" alt="" /> &nbsp;<kbd>3</kbd> <strong>The Headlamps · Certifications</strong></summary>
 
 <br />
 
@@ -135,7 +135,7 @@
 </td></tr>
 <tr><td>
 <details>
-<summary><img src="assets/part-steering.svg" width="72" align="middle" alt="" /> &nbsp;<kbd>4</kbd> <strong>The Steering Wheel · Projects</strong></summary>
+<summary><img src="part-steering.svg" width="72" align="middle" alt="" /> &nbsp;<kbd>4</kbd> <strong>The Steering Wheel · Projects</strong></summary>
 
 <br />
 
@@ -150,7 +150,7 @@
 </td></tr>
 <tr><td>
 <details>
-<summary><img src="assets/part-trunk.svg" width="72" align="middle" alt="" /> &nbsp;<kbd>5</kbd> <strong>The Trunk · Hackathons &amp; challenges</strong></summary>
+<summary><img src="part-trunk.svg" width="72" align="middle" alt="" /> &nbsp;<kbd>5</kbd> <strong>The Trunk · Hackathons &amp; challenges</strong></summary>
 
 <br />
 
@@ -166,7 +166,7 @@
 </td></tr>
 <tr><td>
 <details>
-<summary><img src="assets/part-horn.svg" width="72" align="middle" alt="" /> &nbsp;<kbd>6</kbd> <strong>The Horn · Say hello</strong></summary>
+<summary><img src="part-horn.svg" width="72" align="middle" alt="" /> &nbsp;<kbd>6</kbd> <strong>The Horn · Say hello</strong></summary>
 
 <br />
 
@@ -234,7 +234,7 @@
 
 <h3 align="center">Frameworks, Backend &amp; Tools</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,firebase,dotnet,git,github,vscode,visualstudio,pycharm&perline=10" alt="React, Node.js, Express, Firebase, .NET, Git, GitHub, VS Code, Visual Studio, PyCharm" title="React · Node.js · Express · Firebase · .NET · Git · GitHub · VS Code · Visual Studio · PyCharm" />&nbsp;&nbsp;<img src="assets/jira.svg" width="48" height="48" alt="Jira" title="Jira" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=figma,postman&perline=2" alt="Figma, Postman" title="Figma · Postman" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,firebase,dotnet,git,github,vscode,visualstudio,pycharm&perline=10" alt="React, Node.js, Express, Firebase, .NET, Git, GitHub, VS Code, Visual Studio, PyCharm" title="React · Node.js · Express · Firebase · .NET · Git · GitHub · VS Code · Visual Studio · PyCharm" />&nbsp;&nbsp;<img src="jira.svg" width="48" height="48" alt="Jira" title="Jira" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=figma,postman&perline=2" alt="Figma, Postman" title="Figma · Postman" />
 </p>
 
 <h3 align="center">Skills by area</h3>
