@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="360 149 170 136" width="160" height="128" role="img">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b1220"/><stop offset="1" stop-color="#15305f"/></linearGradient>
+<linearGradient id="body" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#3b82f6"/><stop offset="1" stop-color="#1d4ed8"/></linearGradient>
+<linearGradient id="brass" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#e7c27d"/><stop offset="1" stop-color="#a77c35"/></linearGradient>
+<linearGradient id="beam" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#67e8f9" stop-opacity=".6"/><stop offset="1" stop-color="#67e8f9" stop-opacity="0"/></linearGradient>
+<radialGradient id="glass" cx=".4" cy=".4" r=".7"><stop offset="0" stop-color="#ecfeff"/><stop offset="1" stop-color="#67e8f9"/></radialGradient>
+<pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#1e3a8a" stroke-opacity=".35" stroke-width="1"/></pattern>
+</defs>
+<rect x="360" y="149" width="170" height="136" rx="15" fill="url(#bg)"/>
+<rect x="360" y="149" width="170" height="136" rx="15" fill="url(#grid)"/>
+<g>
+<circle cx="392" cy="222" r="10" fill="url(#brass)"/>
+<rect x="400" y="217" width="20" height="10" rx="3" fill="url(#brass)"/>
+<path d="M418 212 L482 194 L482 240 L418 227 Z" fill="url(#brass)" stroke="#8a6a2e" stroke-width="1.5" stroke-linejoin="round"/>
+<line x1="440" y1="205.8" x2="440" y2="231.5" stroke="#8a6a2e" stroke-width="2"/>
+<line x1="460" y1="200.2" x2="460" y2="235.5" stroke="#8a6a2e" stroke-width="2"/>
+<path d="M490 203 Q506 217 490 231" fill="none" stroke="#67e8f9" stroke-width="3" stroke-linecap="round" opacity="0">
+<animate attributeName="opacity" values="0;.9;0" dur="1.8s" begin="0s" repeatCount="indefinite"/>
+<animateTransform attributeName="transform" type="translate" values="0 0;20 0" dur="1.8s" begin="0s" repeatCount="indefinite"/>
+</path>
+<path d="M490 203 Q506 217 490 231" fill="none" stroke="#67e8f9" stroke-width="3" stroke-linecap="round" opacity="0">
+<animate attributeName="opacity" values="0;.9;0" dur="1.8s" begin="0.6s" repeatCount="indefinite"/>
+<animateTransform attributeName="transform" type="translate" values="0 0;20 0" dur="1.8s" begin="0.6s" repeatCount="indefinite"/>
+</path>
+<path d="M490 203 Q506 217 490 231" fill="none" stroke="#67e8f9" stroke-width="3" stroke-linecap="round" opacity="0">
+<animate attributeName="opacity" values="0;.9;0" dur="1.8s" begin="1.2s" repeatCount="indefinite"/>
+<animateTransform attributeName="transform" type="translate" values="0 0;20 0" dur="1.8s" begin="1.2s" repeatCount="indefinite"/>
+</path>
+</g>
+</svg>

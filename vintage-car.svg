@@ -1,0 +1,164 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 380" width="960" height="380" role="img" aria-labelledby="t d">
+<title id="t">Reuel's Garage: an animated vintage car</title>
+<desc id="d">A vintage roadster with six numbered parts: 1 engine, 2 wheels, 3 headlamps, 4 steering wheel, 5 trunk, 6 horn.</desc>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b1220"/><stop offset="1" stop-color="#15305f"/></linearGradient>
+<linearGradient id="body" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#3b82f6"/><stop offset="1" stop-color="#1d4ed8"/></linearGradient>
+<linearGradient id="brass" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#e7c27d"/><stop offset="1" stop-color="#a77c35"/></linearGradient>
+<linearGradient id="beam" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#67e8f9" stop-opacity=".6"/><stop offset="1" stop-color="#67e8f9" stop-opacity="0"/></linearGradient>
+<radialGradient id="glass" cx=".4" cy=".4" r=".7"><stop offset="0" stop-color="#ecfeff"/><stop offset="1" stop-color="#67e8f9"/></radialGradient>
+<pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#1e3a8a" stroke-opacity=".35" stroke-width="1"/></pattern>
+</defs>
+<rect width="960" height="380" rx="22" fill="url(#bg)"/>
+<rect width="960" height="380" rx="22" fill="url(#grid)"/>
+<rect x="0" y="300" width="960" height="80" fill="#070d1a" opacity=".85"/>
+<rect x="0" y="300" width="960" height="2" fill="#334155"/>
+<line x1="0" y1="366" x2="960" y2="366" stroke="#475569" stroke-width="4" stroke-dasharray="40 30"><animate attributeName="stroke-dashoffset" from="0" to="70" dur="1.1s" repeatCount="indefinite"/></line>
+<ellipse cx="480" cy="304" rx="380" ry="8" fill="#000" opacity=".4"/>
+<text x="36" y="50" font-family="'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="22" font-weight="700" letter-spacing="3" fill="#f1f5f9">REUEL&#8217;S GARAGE</text>
+<text x="36" y="74" font-family="'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="13" fill="#94a3b8">Six parts, six stories. Open each one below.</text>
+<text x="924" y="50" text-anchor="end" font-family="Consolas,Menlo,'Courier New',monospace" font-size="11" letter-spacing="2" fill="#64748b">MODEL R · 2026</text>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0;0 -1.5;0 0;0 -0.8;0 0" dur="0.8s" repeatCount="indefinite"/>
+<rect x="126" y="252" width="30" height="8" rx="3" fill="#94a3b8"/>
+<circle cx="124" cy="256" r="4" fill="#cbd5e1" opacity="0">
+<animate attributeName="cx" values="124;40" dur="2.4s" begin="0.0s" repeatCount="indefinite"/>
+<animate attributeName="cy" values="256;224" dur="2.4s" begin="0.0s" repeatCount="indefinite"/>
+<animate attributeName="r" values="4;16" dur="2.4s" begin="0.0s" repeatCount="indefinite"/>
+<animate attributeName="opacity" values="0;.55;0" dur="2.4s" begin="0.0s" repeatCount="indefinite"/>
+</circle>
+<circle cx="124" cy="256" r="4" fill="#cbd5e1" opacity="0">
+<animate attributeName="cx" values="124;40" dur="2.4s" begin="0.8s" repeatCount="indefinite"/>
+<animate attributeName="cy" values="256;224" dur="2.4s" begin="0.8s" repeatCount="indefinite"/>
+<animate attributeName="r" values="4;16" dur="2.4s" begin="0.8s" repeatCount="indefinite"/>
+<animate attributeName="opacity" values="0;.55;0" dur="2.4s" begin="0.8s" repeatCount="indefinite"/>
+</circle>
+<circle cx="124" cy="256" r="4" fill="#cbd5e1" opacity="0">
+<animate attributeName="cx" values="124;40" dur="2.4s" begin="1.6s" repeatCount="indefinite"/>
+<animate attributeName="cy" values="256;224" dur="2.4s" begin="1.6s" repeatCount="indefinite"/>
+<animate attributeName="r" values="4;16" dur="2.4s" begin="1.6s" repeatCount="indefinite"/>
+<animate attributeName="opacity" values="0;.55;0" dur="2.4s" begin="1.6s" repeatCount="indefinite"/>
+</circle>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0;0 -2;0 0" dur="0.9s" repeatCount="indefinite"/>
+<rect x="150" y="186" width="68" height="60" rx="8" fill="#334155" stroke="#e2e8f0" stroke-width="3"/>
+<line x1="152" y1="200" x2="216" y2="200" stroke="#0f172a" stroke-width="2"/>
+<rect x="168" y="187" width="7" height="58" fill="#1e293b"/>
+<rect x="194" y="187" width="7" height="58" fill="#1e293b"/>
+<rect x="165" y="214" width="13" height="10" rx="2" fill="url(#brass)"/>
+<rect x="191" y="214" width="13" height="10" rx="2" fill="url(#brass)"/>
+</g><path d="M248 182 Q248 138 270 138 L288 138 Q298 138 300 182 Z" fill="#1e293b" stroke="#22d3ee" stroke-width="1.5"/>
+<path d="M384 182 Q384 132 408 132 L424 132 Q436 132 440 182 Z" fill="#1e293b" stroke="#22d3ee" stroke-width="1.5"/><path d="M215 246 L215 190 Q215 176 230 176 L500 176 L530 158 L770 158 Q802 158 806 192 L808 246 Z" fill="url(#body)"/>
+<path d="M232 176 L498 176" stroke="#93c5fd" stroke-opacity=".7" stroke-width="2"/>
+<path d="M216 214 L806 214" stroke="#e2e8f0" stroke-opacity=".5" stroke-width="2"/>
+<rect x="374" y="184" width="122" height="56" rx="7" fill="none" stroke="#1e3a8a" stroke-width="2"/>
+<line x1="476" y1="198" x2="488" y2="198" stroke="#e2e8f0" stroke-width="3" stroke-linecap="round"/>
+<line x1="650" y1="177" x2="658" y2="165" stroke="#1e3a8a" stroke-width="2.5" stroke-linecap="round"/><line x1="668" y1="177" x2="676" y2="165" stroke="#1e3a8a" stroke-width="2.5" stroke-linecap="round"/><line x1="686" y1="177" x2="694" y2="165" stroke="#1e3a8a" stroke-width="2.5" stroke-linecap="round"/><line x1="704" y1="177" x2="712" y2="165" stroke="#1e3a8a" stroke-width="2.5" stroke-linecap="round"/><line x1="722" y1="177" x2="730" y2="165" stroke="#1e3a8a" stroke-width="2.5" stroke-linecap="round"/><line x1="740" y1="177" x2="748" y2="165" stroke="#1e3a8a" stroke-width="2.5" stroke-linecap="round"/><line x1="758" y1="177" x2="766" y2="165" stroke="#1e3a8a" stroke-width="2.5" stroke-linecap="round"/>
+<rect x="806" y="164" width="26" height="82" rx="9" fill="#e2e8f0"/>
+<line x1="811" y1="176" x2="827" y2="176" stroke="#64748b" stroke-width="2"/><line x1="811" y1="184" x2="827" y2="184" stroke="#64748b" stroke-width="2"/><line x1="811" y1="192" x2="827" y2="192" stroke="#64748b" stroke-width="2"/><line x1="811" y1="200" x2="827" y2="200" stroke="#64748b" stroke-width="2"/><line x1="811" y1="208" x2="827" y2="208" stroke="#64748b" stroke-width="2"/><line x1="811" y1="216" x2="827" y2="216" stroke="#64748b" stroke-width="2"/><line x1="811" y1="224" x2="827" y2="224" stroke="#64748b" stroke-width="2"/><line x1="811" y1="232" x2="827" y2="232" stroke="#64748b" stroke-width="2"/><line x1="811" y1="240" x2="827" y2="240" stroke="#64748b" stroke-width="2"/><g>
+<rect x="540" y="166" width="90" height="62" rx="9" fill="#0b1220" stroke="#e2e8f0" stroke-width="3"/>
+<rect x="541" y="167" width="88" height="60" rx="8" fill="#22d3ee" opacity="0"><animate attributeName="opacity" values="0;.16;0" dur="0.9s" repeatCount="indefinite"/></rect>
+<rect x="552" y="176" width="16" height="22" rx="3" fill="#e2e8f0"><animate attributeName="y" values="176;190;176" dur="0.9s" begin="0s" repeatCount="indefinite"/></rect>
+<circle cx="560" cy="173" r="3" fill="#ecfeff" opacity="0"><animate attributeName="opacity" values="0;0;1;0" keyTimes="0;0.45;0.5;1" dur="0.9s" begin="0s" repeatCount="indefinite"/></circle>
+<rect x="576" y="176" width="16" height="22" rx="3" fill="#e2e8f0"><animate attributeName="y" values="176;190;176" dur="0.9s" begin="0.3s" repeatCount="indefinite"/></rect>
+<circle cx="584" cy="173" r="3" fill="#ecfeff" opacity="0"><animate attributeName="opacity" values="0;0;1;0" keyTimes="0;0.45;0.5;1" dur="0.9s" begin="0.3s" repeatCount="indefinite"/></circle>
+<rect x="600" y="176" width="16" height="22" rx="3" fill="#e2e8f0"><animate attributeName="y" values="176;190;176" dur="0.9s" begin="0.6s" repeatCount="indefinite"/></rect>
+<circle cx="608" cy="173" r="3" fill="#ecfeff" opacity="0"><animate attributeName="opacity" values="0;0;1;0" keyTimes="0;0.45;0.5;1" dur="0.9s" begin="0.6s" repeatCount="indefinite"/></circle>
+<rect x="548" y="216" width="74" height="5" rx="2" fill="#94a3b8"/>
+</g><g>
+<circle cx="392" cy="222" r="10" fill="url(#brass)"/>
+<rect x="400" y="217" width="20" height="10" rx="3" fill="url(#brass)"/>
+<path d="M418 212 L482 194 L482 240 L418 227 Z" fill="url(#brass)" stroke="#8a6a2e" stroke-width="1.5" stroke-linejoin="round"/>
+<line x1="440" y1="205.8" x2="440" y2="231.5" stroke="#8a6a2e" stroke-width="2"/>
+<line x1="460" y1="200.2" x2="460" y2="235.5" stroke="#8a6a2e" stroke-width="2"/>
+<path d="M490 203 Q506 217 490 231" fill="none" stroke="#67e8f9" stroke-width="3" stroke-linecap="round" opacity="0">
+<animate attributeName="opacity" values="0;.9;0" dur="1.8s" begin="0s" repeatCount="indefinite"/>
+<animateTransform attributeName="transform" type="translate" values="0 0;20 0" dur="1.8s" begin="0s" repeatCount="indefinite"/>
+</path>
+<path d="M490 203 Q506 217 490 231" fill="none" stroke="#67e8f9" stroke-width="3" stroke-linecap="round" opacity="0">
+<animate attributeName="opacity" values="0;.9;0" dur="1.8s" begin="0.6s" repeatCount="indefinite"/>
+<animateTransform attributeName="transform" type="translate" values="0 0;20 0" dur="1.8s" begin="0.6s" repeatCount="indefinite"/>
+</path>
+<path d="M490 203 Q506 217 490 231" fill="none" stroke="#67e8f9" stroke-width="3" stroke-linecap="round" opacity="0">
+<animate attributeName="opacity" values="0;.9;0" dur="1.8s" begin="1.2s" repeatCount="indefinite"/>
+<animateTransform attributeName="transform" type="translate" values="0 0;20 0" dur="1.8s" begin="1.2s" repeatCount="indefinite"/>
+</path>
+</g><rect x="356" y="248" width="288" height="9" rx="4" fill="#94a3b8"/>
+<circle cx="290" cy="252" r="57" fill="#0b1220"/>
+<g>
+<circle cx="290" cy="252" r="48" fill="#111827"/>
+<circle cx="290" cy="252" r="41" fill="none" stroke="#e2e8f0" stroke-opacity=".55" stroke-width="2"/>
+<g>
+<animateTransform attributeName="transform" type="rotate" from="0 290 252" to="360 290 252" dur="2.2s" repeatCount="indefinite"/>
+<circle cx="290" cy="252" r="34" fill="none" stroke="#e2e8f0" stroke-width="4"/>
+<line x1="290" y1="252" x2="324.0" y2="252.0" stroke="#e2e8f0" stroke-width="1.6"/><line x1="290" y1="252" x2="319.4" y2="269.0" stroke="#e2e8f0" stroke-width="1.6"/><line x1="290" y1="252" x2="307.0" y2="281.4" stroke="#e2e8f0" stroke-width="1.6"/><line x1="290" y1="252" x2="290.0" y2="286.0" stroke="#e2e8f0" stroke-width="1.6"/><line x1="290" y1="252" x2="273.0" y2="281.4" stroke="#e2e8f0" stroke-width="1.6"/><line x1="290" y1="252" x2="260.6" y2="269.0" stroke="#e2e8f0" stroke-width="1.6"/><line x1="290" y1="252" x2="256.0" y2="252.0" stroke="#e2e8f0" stroke-width="1.6"/><line x1="290" y1="252" x2="260.6" y2="235.0" stroke="#e2e8f0" stroke-width="1.6"/><line x1="290" y1="252" x2="273.0" y2="222.6" stroke="#e2e8f0" stroke-width="1.6"/><line x1="290" y1="252" x2="290.0" y2="218.0" stroke="#e2e8f0" stroke-width="1.6"/><line x1="290" y1="252" x2="307.0" y2="222.6" stroke="#e2e8f0" stroke-width="1.6"/><line x1="290" y1="252" x2="319.4" y2="235.0" stroke="#e2e8f0" stroke-width="1.6"/>
+<circle cx="290" cy="252" r="10" fill="#94a3b8"/>
+<circle cx="290" cy="252" r="4" fill="#0f172a"/>
+<circle cx="312" cy="252" r="2.6" fill="#22d3ee"/>
+</g>
+</g>
+<path d="M226 252 A64 64 0 0 1 354 252" fill="none" stroke="#1e3a8a" stroke-width="14" stroke-linecap="round"/>
+<path d="M222 252 A68 68 0 0 1 358 252" fill="none" stroke="#93c5fd" stroke-opacity=".7" stroke-width="2"/>
+<circle cx="700" cy="252" r="57" fill="#0b1220"/>
+<g>
+<circle cx="700" cy="252" r="48" fill="#111827"/>
+<circle cx="700" cy="252" r="41" fill="none" stroke="#e2e8f0" stroke-opacity=".55" stroke-width="2"/>
+<g>
+<animateTransform attributeName="transform" type="rotate" from="0 700 252" to="360 700 252" dur="2.2s" repeatCount="indefinite"/>
+<circle cx="700" cy="252" r="34" fill="none" stroke="#e2e8f0" stroke-width="4"/>
+<line x1="700" y1="252" x2="734.0" y2="252.0" stroke="#e2e8f0" stroke-width="1.6"/><line x1="700" y1="252" x2="729.4" y2="269.0" stroke="#e2e8f0" stroke-width="1.6"/><line x1="700" y1="252" x2="717.0" y2="281.4" stroke="#e2e8f0" stroke-width="1.6"/><line x1="700" y1="252" x2="700.0" y2="286.0" stroke="#e2e8f0" stroke-width="1.6"/><line x1="700" y1="252" x2="683.0" y2="281.4" stroke="#e2e8f0" stroke-width="1.6"/><line x1="700" y1="252" x2="670.6" y2="269.0" stroke="#e2e8f0" stroke-width="1.6"/><line x1="700" y1="252" x2="666.0" y2="252.0" stroke="#e2e8f0" stroke-width="1.6"/><line x1="700" y1="252" x2="670.6" y2="235.0" stroke="#e2e8f0" stroke-width="1.6"/><line x1="700" y1="252" x2="683.0" y2="222.6" stroke="#e2e8f0" stroke-width="1.6"/><line x1="700" y1="252" x2="700.0" y2="218.0" stroke="#e2e8f0" stroke-width="1.6"/><line x1="700" y1="252" x2="717.0" y2="222.6" stroke="#e2e8f0" stroke-width="1.6"/><line x1="700" y1="252" x2="729.4" y2="235.0" stroke="#e2e8f0" stroke-width="1.6"/>
+<circle cx="700" cy="252" r="10" fill="#94a3b8"/>
+<circle cx="700" cy="252" r="4" fill="#0f172a"/>
+<circle cx="722" cy="252" r="2.6" fill="#22d3ee"/>
+</g>
+</g>
+<path d="M636 252 A64 64 0 0 1 764 252" fill="none" stroke="#1e3a8a" stroke-width="14" stroke-linecap="round"/>
+<path d="M632 252 A68 68 0 0 1 768 252" fill="none" stroke="#93c5fd" stroke-opacity=".7" stroke-width="2"/>
+<g>
+<line x1="498" y1="176" x2="468" y2="130" stroke="#94a3b8" stroke-width="5" stroke-linecap="round"/>
+<ellipse cx="468" cy="128" rx="21" ry="5" transform="rotate(-30 468 128)" fill="none" stroke="#e2e8f0" stroke-width="4">
+<animate attributeName="ry" values="5;11;5" dur="3.6s" repeatCount="indefinite"/>
+<animateTransform attributeName="transform" type="rotate" values="-30 468 128;-40 468 128;-30 468 128" dur="3.6s" repeatCount="indefinite"/>
+</ellipse>
+<circle cx="468" cy="128" r="4" fill="#22d3ee"/>
+</g><polygon points="500,176 506,114 522,114 526,160" fill="#bae6fd" fill-opacity=".22" stroke="#e2e8f0" stroke-width="3" stroke-linejoin="round"/>
+<line x1="509" y1="165" x2="514" y2="124" stroke="#ffffff" stroke-opacity=".5" stroke-width="2"/><g>
+<polygon points="880,180 990,116 990,244" fill="url(#beam)"><animate attributeName="opacity" values=".55;1;.55" dur="2s" repeatCount="indefinite"/></polygon>
+<rect x="832" y="170" width="18" height="20" rx="4" fill="#94a3b8"/>
+<circle cx="858" cy="180" r="24" fill="#e2e8f0"/>
+<circle cx="858" cy="180" r="19" fill="url(#glass)"><animate attributeName="opacity" values=".8;1;.8" dur="2s" repeatCount="indefinite"/></circle>
+<circle cx="858" cy="180" r="7" fill="#ffffff"><animate attributeName="r" values="6;9;6" dur="2s" repeatCount="indefinite"/></circle>
+</g>
+</g>
+<line x1="585" y1="141" x2="585" y2="166" stroke="#38bdf8" stroke-width="1.5" stroke-dasharray="3 3" opacity=".85"/>
+<circle cx="585" cy="128" r="13" fill="none" stroke="#22d3ee" stroke-width="2"><animate attributeName="r" values="13;27" dur="2s" begin="0.0s" repeatCount="indefinite"/><animate attributeName="opacity" values=".8;0" dur="2s" begin="0.0s" repeatCount="indefinite"/></circle>
+<circle cx="585" cy="128" r="13" fill="#0b1220" stroke="#22d3ee" stroke-width="2"/>
+<text x="585" y="133" text-anchor="middle" font-family="'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="14" font-weight="700" fill="#e0f2fe">1</text>
+<text x="606" y="133" text-anchor="start" font-family="Consolas,Menlo,'Courier New',monospace" font-size="12" letter-spacing="1.6" fill="#cbd5e1">ENGINE</text>
+<line x1="700" y1="325" x2="700" y2="302" stroke="#38bdf8" stroke-width="1.5" stroke-dasharray="3 3" opacity=".85"/>
+<circle cx="700" cy="338" r="13" fill="none" stroke="#22d3ee" stroke-width="2"><animate attributeName="r" values="13;27" dur="2s" begin="0.3s" repeatCount="indefinite"/><animate attributeName="opacity" values=".8;0" dur="2s" begin="0.3s" repeatCount="indefinite"/></circle>
+<circle cx="700" cy="338" r="13" fill="#0b1220" stroke="#22d3ee" stroke-width="2"/>
+<text x="700" y="343" text-anchor="middle" font-family="'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="14" font-weight="700" fill="#e0f2fe">2</text>
+<text x="722" y="343" text-anchor="start" font-family="Consolas,Menlo,'Courier New',monospace" font-size="12" letter-spacing="1.6" fill="#cbd5e1">WHEELS</text>
+<line x1="858" y1="141" x2="858" y2="154" stroke="#38bdf8" stroke-width="1.5" stroke-dasharray="3 3" opacity=".85"/>
+<circle cx="858" cy="128" r="13" fill="none" stroke="#22d3ee" stroke-width="2"><animate attributeName="r" values="13;27" dur="2s" begin="0.6s" repeatCount="indefinite"/><animate attributeName="opacity" values=".8;0" dur="2s" begin="0.6s" repeatCount="indefinite"/></circle>
+<circle cx="858" cy="128" r="13" fill="#0b1220" stroke="#22d3ee" stroke-width="2"/>
+<text x="858" y="133" text-anchor="middle" font-family="'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="14" font-weight="700" fill="#e0f2fe">3</text>
+<text x="836" y="133" text-anchor="end" font-family="Consolas,Menlo,'Courier New',monospace" font-size="12" letter-spacing="1.6" fill="#cbd5e1">HEADLAMPS</text>
+<line x1="456" y1="99" x2="464" y2="116" stroke="#38bdf8" stroke-width="1.5" stroke-dasharray="3 3" opacity=".85"/>
+<circle cx="452" cy="86" r="13" fill="none" stroke="#22d3ee" stroke-width="2"><animate attributeName="r" values="13;27" dur="2s" begin="0.9s" repeatCount="indefinite"/><animate attributeName="opacity" values=".8;0" dur="2s" begin="0.9s" repeatCount="indefinite"/></circle>
+<circle cx="452" cy="86" r="13" fill="#0b1220" stroke="#22d3ee" stroke-width="2"/>
+<text x="452" y="91" text-anchor="middle" font-family="'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="14" font-weight="700" fill="#e0f2fe">4</text>
+<text x="474" y="91" text-anchor="start" font-family="Consolas,Menlo,'Courier New',monospace" font-size="12" letter-spacing="1.6" fill="#cbd5e1">STEERING</text>
+<line x1="184" y1="153" x2="184" y2="184" stroke="#38bdf8" stroke-width="1.5" stroke-dasharray="3 3" opacity=".85"/>
+<circle cx="184" cy="140" r="13" fill="none" stroke="#22d3ee" stroke-width="2"><animate attributeName="r" values="13;27" dur="2s" begin="1.2s" repeatCount="indefinite"/><animate attributeName="opacity" values=".8;0" dur="2s" begin="1.2s" repeatCount="indefinite"/></circle>
+<circle cx="184" cy="140" r="13" fill="#0b1220" stroke="#22d3ee" stroke-width="2"/>
+<text x="184" y="145" text-anchor="middle" font-family="'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="14" font-weight="700" fill="#e0f2fe">5</text>
+<text x="205" y="145" text-anchor="start" font-family="Consolas,Menlo,'Courier New',monospace" font-size="12" letter-spacing="1.6" fill="#cbd5e1">TRUNK</text>
+<line x1="440" y1="275" x2="440" y2="258" stroke="#38bdf8" stroke-width="1.5" stroke-dasharray="3 3" opacity=".85"/>
+<circle cx="440" cy="288" r="13" fill="none" stroke="#22d3ee" stroke-width="2"><animate attributeName="r" values="13;27" dur="2s" begin="1.5s" repeatCount="indefinite"/><animate attributeName="opacity" values=".8;0" dur="2s" begin="1.5s" repeatCount="indefinite"/></circle>
+<circle cx="440" cy="288" r="13" fill="#0b1220" stroke="#22d3ee" stroke-width="2"/>
+<text x="440" y="293" text-anchor="middle" font-family="'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="14" font-weight="700" fill="#e0f2fe">6</text>
+<text x="461" y="293" text-anchor="start" font-family="Consolas,Menlo,'Courier New',monospace" font-size="12" letter-spacing="1.6" fill="#cbd5e1">HORN</text>
+
+</svg>

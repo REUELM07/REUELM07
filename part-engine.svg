@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="520 145 130 104" width="160" height="128" role="img">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b1220"/><stop offset="1" stop-color="#15305f"/></linearGradient>
+<linearGradient id="body" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#3b82f6"/><stop offset="1" stop-color="#1d4ed8"/></linearGradient>
+<linearGradient id="brass" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#e7c27d"/><stop offset="1" stop-color="#a77c35"/></linearGradient>
+<linearGradient id="beam" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#67e8f9" stop-opacity=".6"/><stop offset="1" stop-color="#67e8f9" stop-opacity="0"/></linearGradient>
+<radialGradient id="glass" cx=".4" cy=".4" r=".7"><stop offset="0" stop-color="#ecfeff"/><stop offset="1" stop-color="#67e8f9"/></radialGradient>
+<pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#1e3a8a" stroke-opacity=".35" stroke-width="1"/></pattern>
+</defs>
+<rect x="520" y="145" width="130" height="104" rx="12" fill="url(#bg)"/>
+<rect x="520" y="145" width="130" height="104" rx="12" fill="url(#grid)"/>
+<g>
+<rect x="540" y="166" width="90" height="62" rx="9" fill="#0b1220" stroke="#e2e8f0" stroke-width="3"/>
+<rect x="541" y="167" width="88" height="60" rx="8" fill="#22d3ee" opacity="0"><animate attributeName="opacity" values="0;.16;0" dur="0.9s" repeatCount="indefinite"/></rect>
+<rect x="552" y="176" width="16" height="22" rx="3" fill="#e2e8f0"><animate attributeName="y" values="176;190;176" dur="0.9s" begin="0s" repeatCount="indefinite"/></rect>
+<circle cx="560" cy="173" r="3" fill="#ecfeff" opacity="0"><animate attributeName="opacity" values="0;0;1;0" keyTimes="0;0.45;0.5;1" dur="0.9s" begin="0s" repeatCount="indefinite"/></circle>
+<rect x="576" y="176" width="16" height="22" rx="3" fill="#e2e8f0"><animate attributeName="y" values="176;190;176" dur="0.9s" begin="0.3s" repeatCount="indefinite"/></rect>
+<circle cx="584" cy="173" r="3" fill="#ecfeff" opacity="0"><animate attributeName="opacity" values="0;0;1;0" keyTimes="0;0.45;0.5;1" dur="0.9s" begin="0.3s" repeatCount="indefinite"/></circle>
+<rect x="600" y="176" width="16" height="22" rx="3" fill="#e2e8f0"><animate attributeName="y" values="176;190;176" dur="0.9s" begin="0.6s" repeatCount="indefinite"/></rect>
+<circle cx="608" cy="173" r="3" fill="#ecfeff" opacity="0"><animate attributeName="opacity" values="0;0;1;0" keyTimes="0;0.45;0.5;1" dur="0.9s" begin="0.6s" repeatCount="indefinite"/></circle>
+<rect x="548" y="216" width="74" height="5" rx="2" fill="#94a3b8"/>
+</g>
+</svg>

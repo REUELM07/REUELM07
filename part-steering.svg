@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="420 96 110 88" width="160" height="128" role="img">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b1220"/><stop offset="1" stop-color="#15305f"/></linearGradient>
+<linearGradient id="body" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#3b82f6"/><stop offset="1" stop-color="#1d4ed8"/></linearGradient>
+<linearGradient id="brass" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#e7c27d"/><stop offset="1" stop-color="#a77c35"/></linearGradient>
+<linearGradient id="beam" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#67e8f9" stop-opacity=".6"/><stop offset="1" stop-color="#67e8f9" stop-opacity="0"/></linearGradient>
+<radialGradient id="glass" cx=".4" cy=".4" r=".7"><stop offset="0" stop-color="#ecfeff"/><stop offset="1" stop-color="#67e8f9"/></radialGradient>
+<pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#1e3a8a" stroke-opacity=".35" stroke-width="1"/></pattern>
+</defs>
+<rect x="420" y="96" width="110" height="88" rx="10" fill="url(#bg)"/>
+<rect x="420" y="96" width="110" height="88" rx="10" fill="url(#grid)"/>
+<g>
+<line x1="498" y1="176" x2="468" y2="130" stroke="#94a3b8" stroke-width="5" stroke-linecap="round"/>
+<ellipse cx="468" cy="128" rx="21" ry="5" transform="rotate(-30 468 128)" fill="none" stroke="#e2e8f0" stroke-width="4">
+<animate attributeName="ry" values="5;11;5" dur="3.6s" repeatCount="indefinite"/>
+<animateTransform attributeName="transform" type="rotate" values="-30 468 128;-40 468 128;-30 468 128" dur="3.6s" repeatCount="indefinite"/>
+</ellipse>
+<circle cx="468" cy="128" r="4" fill="#22d3ee"/>
+</g>
+</svg>
